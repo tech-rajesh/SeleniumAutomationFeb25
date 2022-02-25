@@ -22,7 +22,8 @@ public class RegisterStudentExcelTest {
     static ExcelUtils excelUtils = new ExcelUtils();
     //static ExcelUtils2 excelUtils = new ExcelUtils2();
     //ReadPropertyFile readProp = new ReadPropertyFile();
-    
+    //ReadPropertyFile readProp = new ReadPropertyFile();
+    //ReadPropertyFile readProp = new ReadPropertyFile();
     //using the Constants class values for excel file path 
     //static String excelFilePath =Constants.Path_TestData+Constants.File_TestData2;
     static String excelFilePath =Constants.Path_TestData+Constants.File_TestData;
