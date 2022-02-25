@@ -1,0 +1,53 @@
+2022-02-24 15:48:21,134 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 15:48:24,683 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-02-24 15:48:24,908 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-02-24 15:48:25,067 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-02-24 15:48:25,159 [main] INFO Org_Automation_Logger - click on Login button
+2022-02-24 15:48:29,610 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-02-24 15:48:29,652 [main] INFO Org_Automation_Logger - click on Welcome
+2022-02-24 15:48:29,734 [main] INFO Org_Automation_Logger - click on Logout
+2022-02-24 15:48:35,231 [main] INFO Org_Automation_Logger - Closing chrome browser
+2022-02-24 15:50:05,331 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 15:50:08,934 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-02-24 15:50:09,273 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-02-24 15:50:09,391 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-02-24 15:50:09,524 [main] INFO Org_Automation_Logger - click on Login button
+2022-02-24 15:50:14,156 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-02-24 15:50:14,202 [main] INFO Org_Automation_Logger - click on Welcome
+2022-02-24 15:50:15,023 [main] INFO Org_Automation_Logger - click on Logout
+2022-02-24 15:50:21,364 [main] INFO Org_Automation_Logger - Closing chrome browser
+2022-02-24 16:49:22,485 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 16:49:24,322 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 16:49:33,886 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-24 16:54:54,254 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 16:54:56,212 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 16:55:09,846 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-24 16:56:57,214 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 16:56:58,993 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 16:56:59,196 [main] INFO NOP_comm_Automation_Logger - enter user Name - admin@yourstore.com
+2022-02-24 16:57:01,395 [main] INFO NOP_comm_Automation_Logger - enter password  - admin
+2022-02-24 16:57:03,579 [main] INFO NOP_comm_Automation_Logger - click on Login button
+2022-02-24 16:57:27,830 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-24 17:07:03,750 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 17:07:05,657 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 17:07:05,881 [main] INFO NOP_comm_Automation_Logger - enter user Name - admin@yourstore.com
+2022-02-24 17:07:11,244 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-24 17:08:25,352 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 17:08:27,084 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 17:08:27,346 [main] INFO NOP_comm_Automation_Logger - enter user Name - admin@yourstore.com
+2022-02-24 17:08:29,589 [main] INFO NOP_comm_Automation_Logger - enter password  - admin
+2022-02-24 17:08:31,807 [main] INFO NOP_comm_Automation_Logger - click on Login button
+2022-02-24 17:08:56,745 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-24 17:14:52,918 [main] INFO NOP_comm_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-24 17:14:53,821 [main] INFO NOP_comm_Automation_Logger - NOP comm application Launch Sucessfully in chrome browser
+2022-02-24 17:14:54,031 [main] INFO NOP_comm_Automation_Logger - enter user Name - admin@yourstore.com
+2022-02-24 17:14:56,250 [main] INFO NOP_comm_Automation_Logger - enter password  - admin
+2022-02-24 17:14:58,414 [main] INFO NOP_comm_Automation_Logger - click on Login button
+2022-02-24 17:15:14,645 [main] INFO NOP_comm_Automation_Logger - Closing chrome browser
+2022-02-25 14:50:30,687 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-02-25 14:50:34,599 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-02-25 14:50:34,823 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-02-25 14:50:34,970 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-02-25 14:50:35,089 [main] INFO Org_Automation_Logger - click on Login button
+2022-02-25 14:50:36,967 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-02-25 14:50:42,348 [main] INFO Org_Automation_Logger - Closing chrome browser
